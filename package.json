@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://arbaz93.github.io/React-Todo-list/",
+  "homepage": "https://arbaz93.github.io/React-Todo-list",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
